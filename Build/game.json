@@ -8,7 +8,7 @@
 "wasmSymbolsUrl": "game.wasm.symbols.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
-"splashScreenStyle": "Light",
+"splashScreenStyle": "dark",
 "backgroundColor": "#000000",
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
